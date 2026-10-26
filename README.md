@@ -1,5 +1,8 @@
-# CPSC507-Lab-7
+# Lab-7
 Data Cleaning Lab
+
+# Directions for submissions
+Create a github repo called "Lab-7". Invite me as a collaborator to your repo. Download the repo files here as a zip file. Unzip the files and add them to your repo. Modify the files as appropriate according to the instructions. Do not change names. Commit and push changes to your repo.
 
 # Problem 1
 Complete the Data Cleaning Tutorial Course: https://www.kaggle.com/learn/data-cleaning, including all of the exercises.  Take a screenshot of your progress or certificate once you've finished.
